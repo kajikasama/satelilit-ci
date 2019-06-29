@@ -1,0 +1,20 @@
+.jumbotron{
+    background: url('../img/dashboard.jpg') !important;
+    background-size: cover !important;
+    background-position: 0px -7vw !important; 
+}
+.jumbotronmenu{
+    background: url('../img/menu.png') !important;
+    background-size: cover !important;
+    background-position: 0px -13vw !important; 
+}
+.jumbotronsubmenu{
+    background: url('../img/submenu.png') !important;
+    background-size: cover !important;
+    background-position: 0px -4vw !important; 
+}
+.jumbotronprofile{
+    background: url('../img/profile.jpg') !important;
+    background-size: cover !important;
+    background-position: 0px -14vw !important; 
+}
